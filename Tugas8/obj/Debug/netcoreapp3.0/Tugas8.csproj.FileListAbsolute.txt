@@ -1,0 +1,11 @@
+D:\halo\Tugas8\Tugas8\bin\Debug\netcoreapp3.0\Tugas8.exe
+D:\halo\Tugas8\Tugas8\bin\Debug\netcoreapp3.0\Tugas8.deps.json
+D:\halo\Tugas8\Tugas8\bin\Debug\netcoreapp3.0\Tugas8.runtimeconfig.json
+D:\halo\Tugas8\Tugas8\bin\Debug\netcoreapp3.0\Tugas8.runtimeconfig.dev.json
+D:\halo\Tugas8\Tugas8\bin\Debug\netcoreapp3.0\Tugas8.dll
+D:\halo\Tugas8\Tugas8\bin\Debug\netcoreapp3.0\Tugas8.pdb
+D:\halo\Tugas8\Tugas8\obj\Debug\netcoreapp3.0\Tugas8.csprojAssemblyReference.cache
+D:\halo\Tugas8\Tugas8\obj\Debug\netcoreapp3.0\Tugas8.AssemblyInfoInputs.cache
+D:\halo\Tugas8\Tugas8\obj\Debug\netcoreapp3.0\Tugas8.AssemblyInfo.cs
+D:\halo\Tugas8\Tugas8\obj\Debug\netcoreapp3.0\Tugas8.dll
+D:\halo\Tugas8\Tugas8\obj\Debug\netcoreapp3.0\Tugas8.pdb
