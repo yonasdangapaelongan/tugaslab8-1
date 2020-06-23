@@ -15,7 +15,7 @@ namespace TugasLab8
 
             KaryawanTetap karyawanTetap = new KaryawanTetap();
             karyawanTetap.Nik = "12345678910";
-            karyawanTetap.Nama = "Kim Seokjin";
+            karyawanTetap.Nama = "Kim Seokjinn";
             karyawanTetap.GajiBulanan = 4000000;
 
             KaryawanHarian karyawanHarian = new KaryawanHarian();
